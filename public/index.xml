@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oskar&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Oskar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>oskar.niemira@gmail.com (Oskar Niemira)</managingEditor>
+    <webMaster>oskar.niemira@gmail.com (Oskar Niemira)</webMaster>
+    <lastBuildDate>Fri, 10 Apr 2026 10:26:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Apr 2026 10:26:11 +0100</pubDate>
+      <author>oskar.niemira@gmail.com (Oskar Niemira)</author>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;p&gt;Testing the features&lt;/p&gt;
+&lt;h2 id=&#34;subsection&#34;&gt;SubSection&lt;/h2&gt;
+&lt;p&gt;Cheat sheet&lt;/p&gt;
+&lt;h1 id=&#34;big-title&#34;&gt;Big title&lt;/h1&gt;
+&lt;h2 id=&#34;section-heading&#34;&gt;Section heading&lt;/h2&gt;
+&lt;h3 id=&#34;subsection-1&#34;&gt;Subsection&lt;/h3&gt;
+&lt;h4 id=&#34;smaller-subsection&#34;&gt;Smaller subsection&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;First bullet&lt;/li&gt;
+&lt;li&gt;Second bullet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Third bullet&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

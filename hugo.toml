@@ -1,0 +1,11 @@
+baseURL = "https://oskarniemira.github.io/"
+languageCode = "en-us"
+title = "Oskar's Blog"
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params.author]
+  name = "Oskar Niemira"
+  email = "oskar.niemira@gmail.com"
