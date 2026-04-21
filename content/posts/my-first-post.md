@@ -1,18 +1,9 @@
 +++
-date = '2026-04-10T10:26:11+01:00'
-draft = false
-title = 'Test'
+date = '2026-04-13T10:26:11+01:00'
+draft = true
+title = 'Bidding'
 +++
 
-Testing the features
+It is my first post and I hope I'll be able to publish stuff regularly. I am treating it as my personal journal, something that I would be able to look at at some time later and remember what was I up to. I also want to use it to develop my writing skills, which I always thought were not too shabby (altough last time I had to write stuff like that was in high school and in Polish). Additionally I am pretty sure there are several scientifically proven reasons why one should have a personal journal but I can't reallt be asked to quote anything here now. I guess I'll see how this blog/journal/diary will shape up, whether I'll write about stuff I did over the week at work, or besides the work, or if I learnt something cool, or if I did nothing at all.
 
-## SubSection
-Cheat sheet
-# Big title 
-## Section heading
-### Subsection
-#### Smaller subsection
-
-- First bullet
-- Second bullet
-* Third bullet
+It has been 2 weeks now (I think) since I actually set the blog up, and probably couple years since I've been thinging of setting one up. Recently it has been mostly PR reviews on the Link Budget work and bidding... I have not written any bids before, it seems really difficult and exhausting. It requires a lot of a priori knowledge on the subject (which for this pariticular bid, I don't have at all), ideas on how to solve the issue (which with no a priori knowledge on the topic is even more difficult!) and a healthy balance between waffling and actual content that is worth reading. The amount of cool things that can be done with SLR is remarkable... Being able to determine attiutde of an object purely by comparing range data to different CCRs on board is crazy. I am not able to give to much details on it yet, but maybe in the next post...
