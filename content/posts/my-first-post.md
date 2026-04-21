@@ -1,5 +1,5 @@
 +++
-date = '2026-04-21T10:26:11+01:00'
+date = '2026-04-21T08:00:00Z'
 draft = false
 title = 'Bidding'
 +++
