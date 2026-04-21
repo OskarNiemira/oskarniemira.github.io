@@ -1,6 +1,6 @@
 +++
 date = '2026-04-13T10:26:11+01:00'
-draft = true
+draft = false
 title = 'Bidding'
 +++
 
